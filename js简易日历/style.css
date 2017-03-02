@@ -1,0 +1,6 @@
+#tab{width:400px;background:#000000;margin: 0 auto;}
+li{width: 100px;height:100px;display: block ;background: lightgrey ;text-align: center;}
+ul li{display: block;float: left;}
+ul{color: #ff8040 ;}
+.active{background:darkslategrey ;}
+#content{width: 300px;height: 200px;border: 1px lightgray solid;float: left;margin-left:38px;color:red;font-size:20px;}

@@ -1,0 +1,11 @@
+*{padding: 0;margin: 0;}
+body{background: blueviolet;}
+img{border:none;}
+#clock{width: 520px;height: 520px;background: url("images/bg.png");margin: 50px auto 0;position: relative ;}
+#clock h2{text-align: center ;padding: 80px 0 30px;}
+.year{text-align:center;padding-top: 30px ;}
+.time{text-align:center;padding-top: 30px;}
+#clock img{position: relative ;}
+.num{width:25px;}
+.pos{margin-left:10px;}
+.num2{width:38px;}
